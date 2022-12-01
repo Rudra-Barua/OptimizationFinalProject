@@ -7,4 +7,4 @@ Fall 2021
 
 Author: Rudra Barua
 
-Play with the app [here](https://rudrabarua.shinyapps.io/bakery/)
+Play with the app at https://rudrabarua.shinyapps.io/bakery/
